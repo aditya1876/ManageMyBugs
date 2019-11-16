@@ -2,10 +2,9 @@
 
 An app for managing bugs in a project.
 
-## Version0.1 - Most Viable Product - _Under Build_
+## Version0.1 - Most Viable Product - _Under Build_  
 
-
-### Included Features - 
+### Included Features -  
 
     1. Creating a Bug
         * Creating a Bug Object
