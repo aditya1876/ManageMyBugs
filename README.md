@@ -1,8 +1,12 @@
 # ManageMyBugs
+
 An app for managing bugs in a project.
 
 ## Version0.1 - Most Viable Product - _Under Build_
+
+
 ### Included Features - 
+
     1. Creating a Bug
         * Creating a Bug Object
         * Creating Bug life cycle - new, investigating, fixing, for deployment, for retest, closed, reopened, deferred, rejected
